@@ -1,6 +1,0 @@
-    <div id="footer">
-        &copy;&nbsp;2017&nbsp;
-        {#$config.sitename#}&nbsp;Powered by henkuai
-    </div>
-</body>
-</html>
