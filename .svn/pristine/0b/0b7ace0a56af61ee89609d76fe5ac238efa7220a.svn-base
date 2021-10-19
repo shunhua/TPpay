@@ -1,0 +1,50 @@
+[ 2017-10-18T16:55:44+08:00 ] ::1 /pay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: checklogin E:\work\my\zhifu\full\pay\Index\Controller\BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction E:\work\my\zhifu\full\pay\Index\Controller\PayController.class.php 第 15 行.
+
+[ 2017-10-18T16:55:45+08:00 ] ::1 /pay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: checklogin E:\work\my\zhifu\full\pay\Index\Controller\BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction E:\work\my\zhifu\full\pay\Index\Controller\PayController.class.php 第 15 行.
+
+[ 2017-10-18T16:57:23+08:00 ] ::1 /pay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Undefined variable: checklogin E:\work\my\zhifu\full\pay\Index\Controller\BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction E:\work\my\zhifu\full\pay\Index\Controller\PayController.class.php 第 15 行.
+
+[ 2017-10-18T16:57:26+08:00 ] ::1 /pay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: checklogin E:\work\my\zhifu\full\pay\Index\Controller\BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction E:\work\my\zhifu\full\pay\Index\Controller\PayController.class.php 第 15 行.
+
+[ 2017-10-18T16:58:02+08:00 ] ::1 /pay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015601s ]
+NOTIC: [8] Undefined variable: checklogin E:\work\my\zhifu\full\pay\Index\Controller\BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction E:\work\my\zhifu\full\pay\Index\Controller\PayController.class.php 第 15 行.
+

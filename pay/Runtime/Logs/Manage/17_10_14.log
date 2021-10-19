@@ -1,0 +1,474 @@
+[ 2017-10-14T09:58:05+08:00 ] ::1 /Manage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-14T09:58:09+08:00 ] ::1 /Manage/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 4 E:\work\my\zhifu\full\pay\Common\Controller\DefaultController.class.php 第 196 行.
+
+[ 2017-10-14T09:58:14+08:00 ] ::1 /Manage/Main/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) E:\work\my\zhifu\full\pay\Manage\Controller\MainController.class.php 第 13 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established E:\work\my\zhifu\full\pay\Manage\Controller\MainController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-14T09:58:19+08:00 ] ::1 /Manage/Ka/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Common\Logic\KaLogic.class.php 第 13 行.
+NOTIC: [8] Undefined index: ka E:\work\my\zhifu\full\pay\Common\Logic\KaLogic.class.php 第 17 行.
+NOTIC: [8] Undefined index: username E:\work\my\zhifu\full\pay\Common\Logic\KaLogic.class.php 第 21 行.
+NOTIC: [8] Undefined index: ifcheck E:\work\my\zhifu\full\pay\Common\Logic\KaLogic.class.php 第 25 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Common\Logic\KaLogic.class.php 第 36 行.
+NOTIC: [8] Undefined index: phone E:\work\my\zhifu\full\pay\Common\Tool\ThisPage.class.php 第 63 行.
+NOTIC: [8] Undefined offset: 2 E:\work\my\zhifu\full\pay\Common\Controller\DefaultController.class.php 第 192 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 173 行.
+NOTIC: [8] Undefined index: username E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 176 行.
+NOTIC: [8] Undefined index: ka E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 179 行.
+NOTIC: [8] Undefined index: ifcheck E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 184 行.
+NOTIC: [8] Undefined index: ifcheck E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 185 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 223 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 231 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 232 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.031200s ]
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 173 行.
+NOTIC: [8] Undefined index: username E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 176 行.
+NOTIC: [8] Undefined index: ka E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 179 行.
+NOTIC: [8] Undefined index: ifcheck E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 184 行.
+NOTIC: [8] Undefined index: ifcheck E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 185 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 223 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 231 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\a660c25c2d7cb9b51f7d92cda029db91.php 第 232 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.031200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-14T09:58:26+08:00 ] ::1 /Manage/Kou/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Common\Logic\KouLogic.class.php 第 13 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Common\Logic\KouLogic.class.php 第 24 行.
+NOTIC: [8] Undefined index: phone E:\work\my\zhifu\full\pay\Common\Tool\ThisPage.class.php 第 63 行.
+NOTIC: [8] Undefined offset: 2 E:\work\my\zhifu\full\pay\Common\Controller\DefaultController.class.php 第 192 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\c34856e296b1f42f936985e6b5a87ba6.php 第 173 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\c34856e296b1f42f936985e6b5a87ba6.php 第 206 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\c34856e296b1f42f936985e6b5a87ba6.php 第 210 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\c34856e296b1f42f936985e6b5a87ba6.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.031200s ]
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\c34856e296b1f42f936985e6b5a87ba6.php 第 173 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\c34856e296b1f42f936985e6b5a87ba6.php 第 206 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\c34856e296b1f42f936985e6b5a87ba6.php 第 210 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\c34856e296b1f42f936985e6b5a87ba6.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.046800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-14T09:58:30+08:00 ] ::1 /Manage/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+NOTIC: [8] Undefined index: username E:\work\my\zhifu\full\pay\Common\Logic\UserLogic.class.php 第 16 行.
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Common\Logic\UserLogic.class.php 第 20 行.
+NOTIC: [8] Undefined index: email E:\work\my\zhifu\full\pay\Common\Logic\UserLogic.class.php 第 24 行.
+NOTIC: [8] Undefined index: phone E:\work\my\zhifu\full\pay\Common\Logic\UserLogic.class.php 第 28 行.
+NOTIC: [8] Undefined index: agent E:\work\my\zhifu\full\pay\Common\Logic\UserLogic.class.php 第 32 行.
+NOTIC: [8] Undefined index: ifagent E:\work\my\zhifu\full\pay\Common\Logic\UserLogic.class.php 第 36 行.
+NOTIC: [8] Undefined index: status E:\work\my\zhifu\full\pay\Common\Logic\UserLogic.class.php 第 40 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Common\Logic\UserLogic.class.php 第 50 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined index: phone E:\work\my\zhifu\full\pay\Common\Tool\ThisPage.class.php 第 63 行.
+NOTIC: [8] Undefined offset: 2 E:\work\my\zhifu\full\pay\Common\Controller\DefaultController.class.php 第 192 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 173 行.
+NOTIC: [8] Undefined index: username E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 176 行.
+NOTIC: [8] Undefined index: phone E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 179 行.
+NOTIC: [8] Undefined index: email E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 182 行.
+NOTIC: [8] Undefined index: status E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 187 行.
+NOTIC: [8] Undefined index: status E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 188 行.
+NOTIC: [8] Undefined index: ifagent E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 194 行.
+NOTIC: [8] Undefined index: ifagent E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 195 行.
+NOTIC: [8] Undefined index: agent E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 199 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 239 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 250 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 251 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 252 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015601s ]
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 173 行.
+NOTIC: [8] Undefined index: username E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 176 行.
+NOTIC: [8] Undefined index: phone E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 179 行.
+NOTIC: [8] Undefined index: email E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 182 行.
+NOTIC: [8] Undefined index: status E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 187 行.
+NOTIC: [8] Undefined index: status E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 188 行.
+NOTIC: [8] Undefined index: ifagent E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 194 行.
+NOTIC: [8] Undefined index: ifagent E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 195 行.
+NOTIC: [8] Undefined index: agent E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 199 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 239 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 250 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 251 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\3bdad9718a080ed0223cfa9b3309b0b2.php 第 252 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.031201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-14T10:02:51+08:00 ] ::1 /Manage/Dingdan/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Common\Logic\DingdanLogic.class.php 第 29 行.
+NOTIC: [8] Undefined index: ordernum E:\work\my\zhifu\full\pay\Common\Logic\DingdanLogic.class.php 第 33 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Common\Logic\DingdanLogic.class.php 第 37 行.
+NOTIC: [8] Undefined index: start E:\work\my\zhifu\full\pay\Common\Logic\DingdanLogic.class.php 第 41 行.
+NOTIC: [8] Undefined index: end E:\work\my\zhifu\full\pay\Common\Logic\DingdanLogic.class.php 第 45 行.
+NOTIC: [8] Undefined index: status E:\work\my\zhifu\full\pay\Common\Logic\DingdanLogic.class.php 第 58 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Common\Logic\DingdanLogic.class.php 第 76 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined index: phone E:\work\my\zhifu\full\pay\Common\Tool\ThisPage.class.php 第 63 行.
+NOTIC: [8] Undefined offset: 2 E:\work\my\zhifu\full\pay\Common\Controller\DefaultController.class.php 第 192 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 223 行.
+NOTIC: [8] Undefined index: ordernum E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 226 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 279 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015600s ]
+NOTIC: [8] Undefined index: userid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 223 行.
+NOTIC: [8] Undefined index: ordernum E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 226 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: jkstyle E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Use of undefined constant jkstyle - assumed 'jkstyle' E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Array to string conversion E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 231 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\bff16f1effe6b39d4b34fd2e57b1d3e6.php 第 279 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-14T10:03:45+08:00 ] ::1 /Manage/Api/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+NOTIC: [8] Undefined offset: 2 E:\work\my\zhifu\full\pay\Common\Controller\DefaultController.class.php 第 192 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015600s ]
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 191 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\d24a77279f4c7b22d8aa1e7d18752abc.php 第 196 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.031200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2017-10-14T10:03:55+08:00 ] ::1 /Manage/Api/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 2 E:\work\my\zhifu\full\pay\Common\Controller\DefaultController.class.php 第 192 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 193 行.
+NOTIC: [8] Undefined index: jkid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 193 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 201 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 202 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 193 行.
+NOTIC: [8] Undefined index: jkid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 193 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 201 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.093601s ]
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 193 行.
+NOTIC: [8] Undefined index: jkid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 193 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 201 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 202 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 193 行.
+NOTIC: [8] Undefined index: jkid E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 193 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 201 行.
+NOTIC: [8] Undefined index: p E:\work\my\zhifu\full\pay\Runtime\Cache\Manage\ed4585c89cde803b39f287265da62bb9.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078001s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.093601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-14T10:04:02+08:00 ] ::1 /Manage/Api/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined offset: 0 E:\work\my\zhifu\full\pay\Common\Logic\BaseLogic.class.php 第 78 行.
+NOTIC: [8] Undefined index: Status E:\work\my\zhifu\full\pay\Common\Logic\AdminLogic.class.php 第 255 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 E:\work\my\zhifu\full\pay\Common\Tool\String.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 2 E:\work\my\zhifu\full\pay\Common\Controller\DefaultController.class.php 第 192 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

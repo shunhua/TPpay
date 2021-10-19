@@ -1,0 +1,7 @@
+sign.file=/home/wwwroot/xzf/pay/Common/Tool/yinlian/cert/siyue.pfx
+sign.file.password=123456
+sign.cert.type=PKCS12
+sign.invalid.fields=Signature,CertId
+verify.file=/home/wwwroot/xzf/pay/Common/Tool/yinlian/cert/cp.cer
+signature.field=Signature
+log4j.name=cpLog
